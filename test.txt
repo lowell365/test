@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 testesstestestes
 
 test2
 
 
 test3
+=======
+testesstestestes
+>>>>>>> parent of 706b584... test2 edited
